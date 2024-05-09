@@ -2,26 +2,22 @@
 
 Welcome to BadgerChat! This platform is a dynamic real-time messaging web application designed for seamless communication among users. Dive into an interactive environment where you can connect, share, and engage with others in various dedicated chatrooms. Here's what you can expect when you use BadgerChat:
 
+![Posting Messages UI](./_figures/step8.png)
+![](_figures/step1.png)
 ## Key Features
 
 ### Interactive Chatrooms
 - **Multiple Chatrooms**: Access a variety of chatrooms, each providing a unique space for discussions and interactions.
-![](_figures/step1.png)
 - **Real-Time Messaging**: Send and receive messages instantly with other participants within any chatroom.
-![](_figures/step2.png)
 
 ### Robust User System
 - **User Registration**: Sign up to participate in chatrooms by creating a unique username and password.
-![Registration UI](./_figures/step4.png)
 - **User Login/Logout**: Securely log in to access your account and log out when needed.
-![Login UI](./_figures/step5.png)
 - **User Authentication**: Your credentials are handled securely, ensuring that your login process is safe and private.
 
 ### Advanced Messaging Capabilities
 - **Post Messages**: Share your thoughts and ideas by posting messages in the chatrooms.
-![Posting Messages UI](./_figures/step8.png)
 - **Delete Messages**: Retain control over your content with the ability to delete your own messages.
-![Delete Messages UI](./_figures/step9.png)
 
 ### Navigation and Accessibility
 - **Easy Navigation**: Utilize links and navigation dropdowns to smoothly move across different sections and chatrooms.
